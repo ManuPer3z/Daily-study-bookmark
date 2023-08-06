@@ -1,0 +1,21 @@
+{
+    "subjects": {
+        "Manu": [
+            "Asignatura1",
+            "Asignatura2",
+            "Fisica"
+        ],
+        "Otro": [
+            "Asignatura3",
+            "Asignatura4"
+        ]
+    },
+    "calendar": {
+        "2023-08-06": {
+            "Fisica": {
+                "start_time": "13:06:58",
+                "end_time": "13:07:09"
+            }
+        }
+    }
+}
